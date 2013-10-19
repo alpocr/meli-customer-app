@@ -22,6 +22,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.ulatina.melic.LoginActivity"
+            android:label="@string/title_activity_login" >
+        </activity>
+        <activity
+            android:name="com.ulatina.melic.TaxiRequestActivity"
+            android:label="@string/title_activity_taxi_request" >
+        </activity>
     </application>
 
 </manifest>

@@ -30,6 +30,10 @@
             android:name="com.ulatina.melic.TaxiRequestActivity"
             android:label="@string/title_activity_taxi_request" >
         </activity>
+        <activity
+            android:name="com.ulatina.melic.MainMenuActivity"
+            android:label="@string/title_activity_main_menu" >
+        </activity>
     </application>
 
 </manifest>

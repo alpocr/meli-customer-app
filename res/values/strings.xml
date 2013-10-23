@@ -3,8 +3,16 @@
 
     <string name="app_name">Melic</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
     <string name="title_activity_login">LoginActivity</string>
     <string name="title_activity_taxi_request">TaxiRequestActivity</string>
-
+    <string name="login_username">Nombre</string>
+    <string name="login_exception_txt">Tambien puedes logearte con Facebook</string>
+    <string name="loginButton">Login!</string>
+    <string name="RequestButton">Toca aqui para pedir el taxi</string>
+    <string name="coopSelection">Selecciona la cooperativa de taxis que deseas:</string>
+    <string name="specialTaxiSpin">Selecciona alguna condicion especial para el taxi</string>
+    <string name="title_activity_main_menu">MainMenuActivity</string>
+    <string name="menu_taxi_request">Pide un taxi</string>
+    <string name="menu_central_request">Llamar a la Central de Taxis</string>
+    <string name="menu_log_out">Log Out!</string>
 </resources>

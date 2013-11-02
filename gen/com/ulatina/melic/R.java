@@ -30,7 +30,7 @@ public final class R {
         public static final int RelativeLayout1=0x7f080000;
         public static final int TextView01=0x7f080008;
         public static final int action_settings=0x7f08000d;
-        public static final int btnGetCab=0x7f080007;
+        public static final int button1=0x7f080007;
         public static final int editText1=0x7f080001;
         public static final int imageView1=0x7f080005;
         public static final int spinner1=0x7f08000b;
